@@ -6,4 +6,5 @@ buatlah kode php sehingga tampil seperti gambar dibawah ini dan isilah tanda tan
 
 Seorang pedagang menjual jambu dengan harga Rp 15.000/kg. Di dalam tokonya terdapat 6 dus dan di setiap dus berisi 5 kg jambu. Dua bekas tempat jambu itu masih bisa dijual lagi dengan harga Rp 2.000/dus. Berapakah uang hasil penjualan seluruh jambu dan dus tersebut?
 buatlah kode php sehingga tampil seperti gambar dibawah ini dan isilah tanda tanya dengan hasil perhitungan yang dibuat dengan bahasa pemrograman PHP.
+
 ![img2](https://lh3.googleusercontent.com/fTfRziLsMak8uEDFHh8ZtNtVnpKcLMWi4cwXC9CibgHelfU9msiFeR1sE4XTyJOf78jDB0uPN4CJ9qSQVYcKJDJ8dXcf94jQywG_Z8sGpxCh7WemBQAlxEGUJuycOudLMGdAz3B4)
